@@ -21,10 +21,3 @@ elif compra> 100 and compra< 300:
     print "Pago con tarjeta de debito"
 else:
     print "Pago con tarjeta de credito"
-    
-    #While
-i=1
-while i <= 3:
-    print i
-    i += 1
-print "Programa terminado"
