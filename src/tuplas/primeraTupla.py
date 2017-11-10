@@ -13,4 +13,3 @@ print tuplaPrueba[5:7]
 print tuplaPrueba[-1]
 print tuplaPrueba[3:] # va desde la posicion 3 hasta el final
 print tuplaPrueba[:2] # va desde la posicion 0 hasta la segunda
-print tuplaPrueba[:1]
