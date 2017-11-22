@@ -16,3 +16,9 @@ print mi_diccionario['Asientos']
 mi_diccionario['Motor'] = '110CV'
 
 print mi_diccionario['Motor']
+
+#Borrar dato
+
+mi_diccionario.pop("Puertas");
+
+#http://docs.python.org.ar/tutorial/3/datastructures.html
