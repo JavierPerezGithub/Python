@@ -6,7 +6,7 @@ Created on 2 nov. 2017
 
 #EN LAS TUPLAS LOS DATOS NO SE PUEDEN MODIFICAR
 
-tuplaPrueba = ("Momia","Perico",250,"Paco",12,"Un","Zumito","pero natural")
+tuplaPrueba = ("Momia","Perico",250,"Paco",12,"casa","perro","coche")
 
 print tuplaPrueba[3]
 print tuplaPrueba[5:7]

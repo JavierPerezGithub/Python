@@ -21,4 +21,8 @@ print mi_diccionario['Motor']
 
 mi_diccionario.pop("Puertas");
 
+#Para modificar el una clave del diccionario y le cambio el contenido
+mi_diccionario['Motor'] = '120CV'
+
+print mi_diccionario
 #http://docs.python.org.ar/tutorial/3/datastructures.html
