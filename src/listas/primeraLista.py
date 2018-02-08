@@ -16,3 +16,8 @@ mi_lista[2] = 3.8 # el tercer elemento ahora es 3.8
 mi_lista.append("Nuevo") #Agrego un dato a la lista
 
 print mi_lista[-1]
+
+#mostrar valores en mi_lista
+
+for i in mi_lista:
+    print i
